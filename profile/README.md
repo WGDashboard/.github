@@ -8,10 +8,13 @@
 </p>
 <p align="center"><b><i>Projects are not affiliate to the official WireGuard Project</i></b></p>
 <p align="center">
-  Join our Discord Server for quick help, or you wanna chat about this project!
+  Join our Discord Server or Subreddit for quick help, or you wanna chat about this project!
 </p>
 <p align="center">
   <a align="center" href="https://discord.gg/72TwzjeuWm"><img src="https://img.shields.io/discord/1276818723637956628?labelColor=ffffff&style=for-the-badge&logo=discord&label=Discord"></a>
+  <a align="center" href="www.reddit.com/r/WGDashboard/">
+    <img src="https://img.shields.io/reddit/subreddit-subscribers/WGDashboard?style=for-the-badge&logo=reddit">
+  </a>
 </p>
 <p align="center">
   Alternatively, you can also reach out at our Matrix.org Chatroom :)
